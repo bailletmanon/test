@@ -6,4 +6,5 @@ yes Y|bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installer
 mv package.json ./.node-red
 cd .node-red
 npm install
+cd ..
 node-red demo_v1.json
