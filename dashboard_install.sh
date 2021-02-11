@@ -16,5 +16,5 @@ cd ..
 
 echo "Activation du lancement automatique de Node-Red au démarrage de votre raspberry." 
 sudo systemctl enable nodered.service
-node-red-start
+node-red-start &
 echo "Votre boxenergie est disponible à l'adresse suivante : 127.0.0.1:1880/ui"
