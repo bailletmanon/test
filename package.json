@@ -1,7 +1,12 @@
 {
-  "name": "node-red-project",
-  "description": "A Node-RED Project",
-  "version": "0.0.1",
+  {
+  "name": "sunshare",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "dependencies": {
     "node-red-contrib-counter": "~0.1.5",
     "node-red-contrib-play-audio": "^2.4.0",
