@@ -2,7 +2,7 @@
 echo "Ce script va installer la boxenergie sur votre raspberry."
 
 echo "Début d'installation de Node-Red et Node.js."
-sleep 2
+sleep 5
 yes Y|bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 echo "Fin d'installation de Node-Red et Node.js"
 
