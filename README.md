@@ -1,4 +1,4 @@
-This script is used to install the boxenergie on a Raspberry Pi.
+This script install the boxenergie on a Raspberry Pi.
 
 How to use
 =================
